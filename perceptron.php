@@ -70,7 +70,7 @@ class Perceptron {
 		}
 		
 		$this->checkResult($array);
-		
+		echo 'hello';
 	}
 	
 	function checkResult($array){
